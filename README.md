@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelandeloci&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelandeloci" /> </p>
 
 
-- 🔭 I’m currently working on BK Bank **Design System**
+- 🔭 I’m currently working on BK **Bank Design System**
 
-- 🌱 I’m currently learning Blazor, React, C# **Blazor, React, C#**
+- 🌱 I’m currently learning  **Blazor, React, C#**
 
-- 👯 I’m looking to collaborate on Any Blazor/React Application **Any**
+- 👯 I’m looking to collaborate on Any **Blazor/React/C#** Application
 
 - 👨‍💻 All of my projects are available at [~](~)
 
