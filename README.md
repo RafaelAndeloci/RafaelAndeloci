@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelandeloci&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelandeloci" /> </p>
 
 
+```
+Clicka aí
+```
+
 - 🔭 I’m currently working on **BK Bank**
 
 - 🌱 I’m currently learning  **React, ReactNative, C#, Nextjs**
