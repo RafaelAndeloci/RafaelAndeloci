@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **BK Bank**
 
-- 🌱 I’m currently learning  **Next.js, Nodejs, React, Postgresql**
+- 🌱 I’m currently learning  **Next.js, Nodejs, React, Postgresql and GoLang**
 
 - 👯 I’m looking to collaborate on Any **React/ReactNative/Nextjs** Application
 
