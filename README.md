@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on Any **React/ReactNative/Nextjs** Application
 
-- 👨‍💻 All of my projects are available at [~](https://www.linkedin.com/in/rafael-andeloci-18a902228/)
 
 - 📫 How to reach me **rafaelandeloci.dev@gmail.com**
 
