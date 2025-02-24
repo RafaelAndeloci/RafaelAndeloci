@@ -10,8 +10,7 @@
 - 🌱 I’m currently learning  **Next.js, Nodejs, React, Postgresql and GoLang**
 
 - 👯 I’m looking to collaborate on Any **React/ReactNative/Nextjs** Application
-
-
+- 
 - 📫 How to reach me **rafaelandeloci.dev@gmail.com**
 
 - ⚡ Fun fact :My favourite game is OMORI
