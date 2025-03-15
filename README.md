@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9b8221a2-e6ca-4142-b7b0-cc6b573a41ab)<h1 align="center">Hi 👋, I'm Rafael Andeloci</h1>
+<h1 align="center">Hi 👋, I'm Rafael Andeloci</h1>
 <h3 align="center">A passionate fullstack developer from Brazil 🇧🇷</h3>
 <h3 align="center"><strong>"Knowledge only makes sense if it is shared"</strong>— Some Mathematician.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelandeloci&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelandeloci" /> </p>
