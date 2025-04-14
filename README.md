@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rafaelandeloci.dev@gmail.com**
 
-- ⚡ Fun fact :My favourite game is OMORI
+- ⚡ Fun fact: My favourite game is OMORI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
