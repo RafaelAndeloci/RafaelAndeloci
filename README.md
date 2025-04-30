@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at **BK Bank**
 
-- 🌱 I’m currently learning  **GoLang**
+- 🌱 I’m currently learning  **Go**
 
 - 📫 How to reach me **rafaelandeloci.dev@gmail.com**
 
